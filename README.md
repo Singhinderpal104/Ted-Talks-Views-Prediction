@@ -2,7 +2,7 @@
 Project on predicting the views on TED videos.
 ## Introduction
     In this notebook I've done some simple feature engineering on the TED Talks dataset and I've built machine learning models (Linear Regression, Random Forest and XGBRegressor) and optimised their hyperparameters to predict the number of TED Talks views.
-## Workflow
+## Workflow:
    This project is divided into 3 parts after importing the basic libraires and reading the dataset.
       1. Pre processing:
             **a. EDA**
